@@ -1,3 +1,5 @@
+This is an ECommerce website created using the MERN stack. This is an ongoing project and the screenshots are in the repository.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
