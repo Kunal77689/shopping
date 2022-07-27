@@ -2,7 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import Home from "./Home";
-
+import ProductsFilterPage from "./ProductsFilterPage";
+import SingleProductPage from "./SingleProductPage";
+import SignUpPage from "./SignUpPage";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>

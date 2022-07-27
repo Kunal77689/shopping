@@ -16,7 +16,7 @@ align-items: center:
 const Middle = styled.h1`
     flex: 1;
     font-weight: 700;
-    margin: 5px;
+    margin: 10px;
     display: flex;
     justify-content: center;
     

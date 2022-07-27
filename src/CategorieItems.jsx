@@ -4,13 +4,12 @@ import styled from 'styled-components';
 const Container = styled.div`
 flex:1;
    padding: 10px;
-   height: 100%;
-   width: 100%;
+   
    position: relative;
 `
 const Image = styled.img`
-    height: 70vh;
-    width: 30vw;
+    height: 100%;
+    width: 100%;
     object-fit:cover;
     position: absolute;
     

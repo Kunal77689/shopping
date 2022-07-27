@@ -46,33 +46,48 @@ export const data = [
 export const DataItems = [
   {
     id: 1,
-    img: "https://static.highsnobiety.com/thumbor/nMqQ1DBZQTsGuXqNWXwh6gitYY8=/1600x1067/static.highsnobiety.com/wp-content/uploads/2019/01/22094731/nike-air-jordan-1-hyper-crimson-release-date-price-04.jpg",
+    img: "https://www.ajskick.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/i/air-jordan-4-white-cement-840606-192-_1_.jpg",
     desc: "NIKE AIR JORDAN HYPER CRIMSON",
   },
   {
     id: 2,
-    img: "https://static.highsnobiety.com/thumbor/bdp5TmD49IcdJhNvSPuoS18l19c=/1600x1067/static.highsnobiety.com/wp-content/uploads/2020/10/27164655/nike-air-jordan-1-dark-mocha-main.jpg",
-    desc: "NIKE AIR JORDAN 1 DARK MOCHA",
+    img: "https://i.pinimg.com/originals/05/2f/cd/052fcdeac8df7c77cd2aee93fb6e8cf3.png",
+    desc: "NIKE AIR JORDAN HYPER CRIMSON",
   },
   {
     id: 3,
-    img: "https://sneakersgood.com/wp-content/uploads/2021/01/university-blue-jordan-1-555088-134-release-date-5.jpg",
+    img: "https://thumbs.dreamstime.com/b/nike-air-jordan-mid-white-sneaker-vienna-austria-june-isolated-background-135127987.jpg",
     desc: "NIKE AIR JORDAN 1 UNIVERSITY BLUE",
   },
   {
     id: 4,
-    img: "https://cdn.sneaker.no/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/n/i/nike_air_jordan_1_mid_black_light_bone_cone_554724_062_4.jpg",
+    img: "https://www.pngkit.com/png/full/834-8343448_jordan-shoes-png-air-jordan.png",
     desc: "NIKE AIR JORDAN 1 MID",
   },
   {
     id: 5,
-    img: "https://asap-kross.ru/wp-content/uploads/2020/09/k51-1.jpg",
+    img: "http://images.jordansdaily.com/wp-content/uploads/2017/04/air-jordan-1-royal-3.png",
     desc: "NIKE AIR JORDAN 1 RETRO RED",
   },
   {
     id: 6,
-    img: "https://kingwalk.com/wp-content/uploads/2021/04/Jordan-1-Retro-OG-Hyper-Royal-2.jpg",
+    img: "https://sneakerbardetroit.com/wp-content/uploads/2017/11/air-jordan-1-gold-top-3.png",
     desc: "NIKE AIR JORDAN 1 RETRO HYPER ROYAL",
+  },
+  {
+    id: 7,
+    img: "https://www.vippng.com/png/full/426-4268915_jordan-shoes-png.png",
+    desc: "Nike DUNKS RETRO LIMITED EDITION",
+  },
+  {
+    id: 8,
+    img: "https://sneakerbardetroit.com/wp-content/uploads/2018/12/Air-Jordan-6-Gatorade.png",
+    desc: "NIKE BASKETBALL SERIES",
+  },
+  {
+    id: 9,
+    img: "https://toppng.com/uploads/thumbnail/jordan-air-force-1-black-and-white-115633201204jckhprrtb.png",
+    desc: "Nike AIR JORDAN J1 BLACK",
   },
 ];
 export default items;

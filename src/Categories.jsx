@@ -5,7 +5,8 @@ import CategorieItems from './CategorieItems';
 const Container = styled.div`
     display: flex;
     justify-content: space-between;
-
+    height: 13cm;
+    width: 32cm;
 `
 
 const Categories = ()=>{

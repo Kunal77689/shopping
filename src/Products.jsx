@@ -6,8 +6,6 @@ const Container = styled.div`
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 60px;
-    margin-top: 450px;
     
 `
 
@@ -15,7 +13,7 @@ const Products = ()=>{
     return(
         <Container>
             {DataItems.map((item)=>(
-                <Product item = {item}></Product>
+                <Product item = {item} key = {item.id}></Product>
             ))}
         </Container>
     )
